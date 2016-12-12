@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Producto2mcalvopin/app/models/Computer.java&apos; to &apos;Plato.java&apos;" description="Rename resource &apos;Computer.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="app/models/Computer.java" name="Plato.java" stamp="1481549860706" updateReferences="true"/>
+</session>
